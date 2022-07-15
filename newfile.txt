@@ -1,2 +1,3 @@
 hello newfile 
 changing line
+learning about branch command using 2rd line in newfile.txt
