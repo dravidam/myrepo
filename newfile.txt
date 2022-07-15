@@ -1,3 +1,4 @@
 hello newfile 
 changing line
 learning about branch command using 2rd line in newfile.txt
+Update is happenning in newfiletext branch 4th line in newfile.txt::::update//mater to newfiletext
