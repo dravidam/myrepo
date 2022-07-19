@@ -1,3 +1,8 @@
+helloo newfile 
+i am adding fruits in newfile on 19th july 2022
+oranges
+banans
+pinapples
 hello newfile 
 changing line
 changing to master branch trial
