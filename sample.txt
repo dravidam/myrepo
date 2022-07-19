@@ -1,1 +1,8 @@
+Adding sample file fruits 
+banana
+Apple
+ornages
+:wq
+/q
+:wq
 This is my first sample file
